@@ -57,10 +57,11 @@ File became accessible in browser
 ---
 
 ## 📚 Learning
+- Static hosting ≠ public access  
+- Bucket policy is important  
 
 
 ## 📄 Detailed Report
 
 ✅ The complete report has been uploaded in PDF format.
-- Static hosting ≠ public access  
-- Bucket policy is important  
+
